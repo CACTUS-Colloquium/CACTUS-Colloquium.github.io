@@ -1,12 +1,11 @@
-title: Your awesome title
+title: >
+  [LOGO] CACTUS/P <br>
+  Capital Area Colloquium on Trustworthy Usable Security/Privacy
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: CACTUS/P
+#  email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  CACTUS/P is the Capital Area Colloquium on Trustworthy Usable Security/Privacy. We strive to create community in the DC/Maryland/Virginia are for academics, industry professionals, and government workers interested in topics related to usable security and privacy. We meet twice a year to present recent research and discuss new collaborations. 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -16,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+#    twitter: jekyllrb
+#    github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -49,8 +48,9 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+  - prior.md
+  - about.md
 
 # Build settings
 theme: minima
