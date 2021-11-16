@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prior Meetings
-permalink: /about/
+permalink: /prior/
 ---
 
-Prior meetings of CACTUS/P
+There are no prior meetings, yet! Check back here soon. 
