@@ -25,6 +25,6 @@ University of Maryland, College Park
 
   * If you are driving, I recommend you park in the lot/garage of "The Varsity" apartments (Baltimore Ave.), which should be both cheaper and a closer walk than using official campus visitor parking. It's about $2 per hour. They will ticket you quickly if your time expires (campus would also). Watch the signs so you park in the visitor and not resident section.
 
-  * If you are using metro, it's about a 1-mile walk from the station to our building, or you can use the UM shuttle that runs every 10-20 minutes (no ID required). Here's the [schedule](https://transportation.umd.edu/shuttle-um/104/611). The closest stop is the Glenn L. Martin wind tunnel but the Math slip isn't much farther.
+  * If you are using metro, it's about a 1-mile walk from the station to our building, or you can use the UM shuttle that runs every 10-20 minutes (no ID required). Here's the [schedule](https://transportation.umd.edu/shuttle-um/104/611). The closest stop is the Glenn L. Martin wind tunnel but the Math Slip isn't much farther.
 
   * We have eduroam, so if you have an eduroam account you are all set. If you don't have an eduroam account, you can sign up for a 24-hour pass to the [umd-guest wireless network](https://itsupport.umd.edu/itsupport?id=kb_article_view&article=KB0012824&sys_kb_id=f098e4dadb533c104cd4f36f29961949&spa=1).
