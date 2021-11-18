@@ -21,7 +21,7 @@ University of Maryland, College Park
   * Duration: 9:30am-4:30pm (potential for dinner/drinks to follow)
 
 ## Directions and other information
-  * All in-person attendees are required to be fully vaccinated against COVID-19. Masks are currently required on campus in all shared spaces.
+  * All in-person attendees are required to be fully vaccinated against COVID-19. **Masks are currently required on campus in all shared spaces.**
 
   * The Iribe Center uses European floor numbers, so we're on the first floor but not the ground floor. There's also a mezzanine area between the ground and first floors.
 
