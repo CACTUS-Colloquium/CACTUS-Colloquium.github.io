@@ -15,22 +15,28 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
 *(All times EST)*
 
 * 9:30AM-9:45AM : Welcome and Intros
+
 * 9:45AM-11:00AM : Research Talks  (15 minute presentations, 10 minute Q/A) 
   * Talk 1: 
   * Talk 2
   * Talk 3
 * 11:00AM-11:15AM : Break
+
 * 11:15AM-11:45AM : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
   * WIP 1
-  * WIP 2: Hunter Dyer -- The George Washington University
+  * Hunter Dyer -- The George Washington University
     * Examining Android Application Mirror Sites
   * WIP 3
-  * WIP 4
+  * David Balash -- The George Washington University
+    * Privacy nutrition labels on the Apple iOS app store
   * WIP 5
   * WIP 6
+  
 * 11:45AM-12:00PM : Birds of a Feather Brainstorming
   * Come up with 3-to-4 topics we can break out and brainstorm about
+  
 * 12:00PM-1:00PM : Lunch
+
 * 1:00PM-1:30 : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
   * WIP 7
   * WIP 8
@@ -38,15 +44,19 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
   * WIP 10
   * WIP 11
   * WIP 12
+  
 * 1:30PM-1:45PM : Break
+
 * 1:45PM-2:45PM : Birds of a Feather Breakouts
   * BoF 1
   * BoF 2
   * Bof 3
+  
 * 2:45PM-3:00PM : Break
+
 * 3:00PM-4:15PM : Research Talks (15 minute presentations, 10 minute Q/A)
   * Talk 4
-  * Talk 5: David Balash -- The George Washington University
+  * David Balash -- The George Washington University
     * <a href="javascript:void(0)" onclick="$('.talk-5').toggle('slow')"> Security and Privacy Perceptions of Third-Party Application Access for Google Accounts <a>  
     <div class="talk-5" style="display:none">
     <ul><ul>
@@ -56,8 +66,10 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
     </ul></ul>
     </div>
   * Talk 6
+  
 * 4:15PM-4:30PM : Closing
-* 4:30PM + : After hours activities
+
+* 4:30PM + : After hours activities (TBD)
 
 ## Location
 
