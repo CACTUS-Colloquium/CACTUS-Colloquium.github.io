@@ -16,13 +16,14 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
 
 * 9:30AM-9:45AM : Welcome and Intros
 * 9:45AM-11:00AM : Research Talks  (15 minute presentations, 10 minute Q/A) 
-  * Talk 1
+  * Talk 1: 
   * Talk 2
   * Talk 3
 * 11:00AM-11:15AM : Break
 * 11:15AM-11:45AM : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
   * WIP 1
-  * WIP 2
+  * WIP 2: Hunter Dyer -- The George Washington University
+    * Examining Android Application Mirror Sites
   * WIP 3
   * WIP 4
   * WIP 5
@@ -45,7 +46,15 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
 * 2:45PM-3:00PM : Break
 * 3:00PM-4:15PM : Research Talks (15 minute presentations, 10 minute Q/A)
   * Talk 4
-  * Talk 5
+  * Talk 5: David Balash -- The George Washington University
+    * <a href="javascript:void(0)" onclick="$('.talk-5').toggle('slow')"> Security and Privacy Perceptions of Third-Party Application Access for Google Accounts <a>  
+    <div class="talk-5" style="display:none">
+    <ul><ul>
+      <li> Abstract: Online services like Google provide a variety of application programming interfaces (APIs).These online APIs enable authenticated third-party services and applications (apps) to access a user's account data for tasks such as single sign-on (SSO), calendar integration, and sending email on behalf of the user, among others. Despite their prevalence, API access could pose significant privacy and security risks, where a third-party could have unexpected privileges to a user's account. To gauge users' perceptions and concerns regarding third-party apps that integrate with online APIs, we performed a multi-part online survey of Google users. First, we asked n=432 participants to recall if and when they allowed third-party access to their Google account: 89% recalled using at least one SSO and 52% remembered at least one third-party app. In the second survey, we re-recruited n=214 participants to ask about specific apps and SSOs they've authorized on their own Google accounts. We collected in-the-wild data about users' actual SSOs and authorized apps: 86% used Google SSO on at least one service, and 67% had at least one third-party app authorized. After examining their apps and SSOs, participants expressed the most concern about access to personal information like email addresses and other publicly shared info. However, participants were less concerned with broader---and perhaps more invasive---access to calendars, emails, or cloud storage (as needed by third-party apps). This discrepancy may be due in part to trust transference to apps that integrate with Google, forming an implied partnership. Our results suggest opportunities for design improvements to the current third-party management tools offered by Google; for example, tracking recent access, automatically revoking access due to app disuse, and providing permission controls.</li>
+      <li> To appear at USENIX Security 2022</li>
+      <li> <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/balash">Paper Link</a> </li>
+    </ul></ul>
+    </div>
   * Talk 6
 * 4:15PM-4:30PM : Closing
 * 4:30PM + : After hours activities
