@@ -6,9 +6,7 @@ title: Inaugural Meeting - December 14, 2021
 
 The CATCUS/P Colloquium is a new regional event for the Capital Area (and broader friends) to gather and discuss recent results in Usable Security and Privacy. The Colloquium will consist of both research talks and networking events, and will be hosted twice a year.
 
-Register for the inaugural event, which will be held 12/14/2021 at the University of Maryland, College Park,  [here](https://go.umd.edu/cactus-f21)
-
-#We will soon post a schedule for the day, but for now save the date for 12/14/2021 at the University of Maryland, College Park.
+Register for the inaugural event, which will be held 12/14/2021 at the University of Maryland, College Park, [here](https://go.umd.edu/cactus-f21)
 
 ## Draft Schedule
 
