@@ -17,13 +17,25 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
 * 9:30AM-9:45AM : Welcome and Intros
 
 * 9:45AM-11:00AM : Research Talks  (15 minute presentations, 10 minute Q/A) 
-  * Talk 1: 
-  * Talk 2
+  * Noel Warford -- University of Maryland, College Park
+    * Title - TBD
+  * Collins Munyendo -- The George Washington University 
+    * <a href="javascript:void(0)" onclick="$('.talk-2').toggle('slow')">"The Same PIN, Just Longer": On the (In)Security of Upgrading PINs from 4 to 6 Digits<a>  
+    <div class="talk-2" style="display:none">
+    <ul><ul>
+      <li> Abstract </li>
+      <ul><li>With the goal of improving security, companies like Apple have moved from requiring 4-digit PINs to requiring 6-digit PINs in contexts like smartphone unlocking. Users with an existing 4-digit PIN thus must “upgrade” to a 6-digit PIN for the same device or account. In an online user study (n=1,017), we explore the security of such upgrades. Participants used their own smartphone to first select a 4-digit PIN. They were then directed to select a 6-digit PIN with one of five randomly assigned justifications. In an online attack that guesses a small number of common PINs (10–30), we observe only small differences between the security of 4-digit and 6-digit PINs, confirming prior results. However, we are the first to also model targeted attacks for PIN upgrades. We find that attackers who know a user’s previous 4-digit PIN perform significantly better at guessing their 6-digit PIN in only a few guesses using basic heuristics (e.g., appending digits to the 4-digit PIN). Participants who selected a 6-digit PIN when given a “device upgrade” justification selected 6-digit PINs that were the easiest to guess in a targeted attack, with the attacker successfully guessing over 25% of the PINs in just 10 attempts and more than 30% in 30 attempts. There does not appear to be much security benefit to 6-digit PINs over 4- digit PINs against either targeted or untargeted online attacks. These results suggest that forced “upgrades” from 4-digit to 6-digit PINs may be unnecessary and potentially harmful, similar to the disadvantages of password expiration policies.</li></ul>
+      <li> Publication Info </li>
+      <ul>
+          <li><em>In submission</em> with Collins W. Munyendo, Philipp Markert, Alexandra Nisenoff, Miles Grant, Elena Korkes, Blase Ur, Adam J. Aviv</li>
+    </ul></ul></ul>
+    </div>
   * Talk 3
 * 11:00AM-11:15AM : Break
 
 * 11:15AM-11:45AM : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
-  * WIP 1
+  * Julia Poveda -- University of Maryland, College Park
+    *  When Safety is Worth a Thousand Words: Analyzing IPV Survivors' Initiatives and Online Advice to Untangle Tech Abuse
   * Hunter Dyer -- The George Washington University
     * Examining Android Application Mirror Sites
   * WIP 3
@@ -60,10 +72,12 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
     * <a href="javascript:void(0)" onclick="$('.talk-5').toggle('slow')"> Security and Privacy Perceptions of Third-Party Application Access for Google Accounts <a>  
     <div class="talk-5" style="display:none">
     <ul><ul>
-      <li> Abstract: Online services like Google provide a variety of application programming interfaces (APIs).These online APIs enable authenticated third-party services and applications (apps) to access a user's account data for tasks such as single sign-on (SSO), calendar integration, and sending email on behalf of the user, among others. Despite their prevalence, API access could pose significant privacy and security risks, where a third-party could have unexpected privileges to a user's account. To gauge users' perceptions and concerns regarding third-party apps that integrate with online APIs, we performed a multi-part online survey of Google users. First, we asked n=432 participants to recall if and when they allowed third-party access to their Google account: 89% recalled using at least one SSO and 52% remembered at least one third-party app. In the second survey, we re-recruited n=214 participants to ask about specific apps and SSOs they've authorized on their own Google accounts. We collected in-the-wild data about users' actual SSOs and authorized apps: 86% used Google SSO on at least one service, and 67% had at least one third-party app authorized. After examining their apps and SSOs, participants expressed the most concern about access to personal information like email addresses and other publicly shared info. However, participants were less concerned with broader---and perhaps more invasive---access to calendars, emails, or cloud storage (as needed by third-party apps). This discrepancy may be due in part to trust transference to apps that integrate with Google, forming an implied partnership. Our results suggest opportunities for design improvements to the current third-party management tools offered by Google; for example, tracking recent access, automatically revoking access due to app disuse, and providing permission controls.</li>
-      <li> To appear at USENIX Security 2022</li>
-      <li> <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/balash">Paper Link</a> </li>
-    </ul></ul>
+      <li> Abstract </li>
+      <ul><li>Online services like Google provide a variety of application programming interfaces (APIs).These online APIs enable authenticated third-party services and applications (apps) to access a user's account data for tasks such as single sign-on (SSO), calendar integration, and sending email on behalf of the user, among others. Despite their prevalence, API access could pose significant privacy and security risks, where a third-party could have unexpected privileges to a user's account. To gauge users' perceptions and concerns regarding third-party apps that integrate with online APIs, we performed a multi-part online survey of Google users. First, we asked n=432 participants to recall if and when they allowed third-party access to their Google account: 89% recalled using at least one SSO and 52% remembered at least one third-party app. In the second survey, we re-recruited n=214 participants to ask about specific apps and SSOs they've authorized on their own Google accounts. We collected in-the-wild data about users' actual SSOs and authorized apps: 86% used Google SSO on at least one service, and 67% had at least one third-party app authorized. After examining their apps and SSOs, participants expressed the most concern about access to personal information like email addresses and other publicly shared info. However, participants were less concerned with broader---and perhaps more invasive---access to calendars, emails, or cloud storage (as needed by third-party apps). This discrepancy may be due in part to trust transference to apps that integrate with Google, forming an implied partnership. Our results suggest opportunities for design improvements to the current third-party management tools offered by Google; for example, tracking recent access, automatically revoking access due to app disuse, and providing permission controls.</li></ul>
+      <li> Publication Info </li>
+      <ul>
+          <li>David G. Balash, Xiaoyuan (Owen) Wu, Miles Grant, Irwin Reyes, and Adam J. Aviv. <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/balash">Security and Privacy Perceptions of Third-Party Application Access for Google Accounts</a>. 31st USENIX Security Symposium (USENIX Security 22). Aug 2022. </li>
+    </ul></ul></ul>
     </div>
   * Talk 6
   
