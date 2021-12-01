@@ -35,10 +35,11 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
 
 * 11:15AM-11:45AM : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
   * Julia Poveda -- University of Maryland, College Park
-    *  When Safety is Worth a Thousand Words: Analyzing IPV Survivors' Initiatives and Online Advice to Untangle Tech Abuse
+    * When Safety is Worth a Thousand Words: Analyzing IPV Survivors' Initiatives and Online Advice to Untangle Tech Abuse
   * Hunter Dyer -- The George Washington University
     * Examining Android Application Mirror Sites
-  * WIP 3
+  * Phoebe Moh -- University of Maryland, College Park
+    * IoT Device Misuse and Snooping
   * David Balash -- The George Washington University
     * Privacy nutrition labels on the Apple iOS app store
   * WIP 5
