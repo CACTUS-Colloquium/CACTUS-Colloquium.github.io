@@ -6,20 +6,20 @@ title: Inaugural Meeting - December 14, 2021
 
 The CATCUS/P Colloquium is a new regional event for the Capital Area (and broader friends) to gather and discuss recent results in Usable Security and Privacy. The Colloquium will consist of both research talks and networking events, and will be hosted twice a year.
 
-* Register for the inaugural event [here](https://go.umd.edu/cactus-f21)
+Register for the inaugural event, which will be held 12/14/2021 at the University of Maryland, College Park,  [here](https://go.umd.edu/cactus-f21)
 
-We will soon post a schedule for the day, but for now save the date for 12/14/2021 at the University of Maryland, College Park.
+#We will soon post a schedule for the day, but for now save the date for 12/14/2021 at the University of Maryland, College Park.
 
-## Schedule
+## Draft Schedule
 
 *(All times EST)*
 
 * 9:30AM-9:45AM : Welcome and Intros
 
-* 9:45AM-11:00AM : Research Talks  (15 minute presentations, 10 minute Q/A) 
+* 9:45AM-11:00AM : Research Talks  (15 minute presentations, 10 minute Q/A)
   * Noel Warford -- University of Maryland, College Park
     * Title - TBD
-  * Collins Munyendo -- The George Washington University 
+  * Collins Munyendo -- The George Washington University
     * <a href="javascript:void(0)" onclick="$('.talk-2').toggle('slow')">"The Same PIN, Just Longer": On the (In)Security of Upgrading PINs from 4 to 6 Digits<a>  
     <div class="talk-2" style="display:none">
     <ul><ul>
@@ -43,10 +43,10 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
     * Privacy nutrition labels on the Apple iOS app store
   * WIP 5
   * WIP 6
-  
+
 * 11:45AM-12:00PM : Birds of a Feather Brainstorming
   * Come up with 3-to-4 topics we can break out and brainstorm about
-  
+
 * 12:00PM-1:00PM : Lunch
 
 * 1:00PM-1:30 : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
@@ -56,14 +56,14 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
   * WIP 10
   * WIP 11
   * WIP 12
-  
+
 * 1:30PM-1:45PM : Break
 
 * 1:45PM-2:45PM : Birds of a Feather Breakouts
   * BoF 1
   * BoF 2
   * Bof 3
-  
+
 * 2:45PM-3:00PM : Break
 
 * 3:00PM-4:15PM : Research Talks (15 minute presentations, 10 minute Q/A)
@@ -80,7 +80,7 @@ We will soon post a schedule for the day, but for now save the date for 12/14/20
     </ul></ul></ul>
     </div>
   * Talk 6
-  
+
 * 4:15PM-4:30PM : Closing
 
 * 4:30PM + : After hours activities (TBD)
