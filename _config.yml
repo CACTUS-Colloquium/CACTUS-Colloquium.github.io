@@ -8,9 +8,11 @@ description: > # this means to ignore newlines until "show_excerpts:"
   CACTUS/P is the Capital-Area Colloquium on Trustworthy and Usable Security/Privacy. We strive to create community in the DC/Maryland/Virginia are for academics, industry professionals, and government workers interested in topics related to usable security and privacy. We meet twice a year to present recent research and discuss new collaborations.
 show_excerpts: false # set to true to show excerpts on the homepage
 
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
+  skin: classic
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
