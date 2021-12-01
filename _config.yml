@@ -1,11 +1,11 @@
 title: >
   <img src="/images/cactus-p-logo.png" width="100px" height="100px"> <span style="font-size:50px">CACTUS/P</span><br>
-  Capital Area Colloquium on Trustworthy and Usable Security/Privacy
+  Capital-Area Colloquium on Trustworthy and Usable Security/Privacy
 author:
   name: CACTUS/P
 #  email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  CACTUS/P is the Capital Area Colloquium on Trustworthy and Usable Security/Privacy. We strive to create community in the DC/Maryland/Virginia are for academics, industry professionals, and government workers interested in topics related to usable security and privacy. We meet twice a year to present recent research and discuss new collaborations. 
+  CACTUS/P is the Capital-Area Colloquium on Trustworthy and Usable Security/Privacy. We strive to create community in the DC/Maryland/Virginia are for academics, industry professionals, and government workers interested in topics related to usable security and privacy. We meet twice a year to present recent research and discuss new collaborations.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
