@@ -16,7 +16,16 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
 
 * 9:45AM-11:00AM : Research Talks  (15 minute presentations, 10 minute Q/A)
   * Noel Warford -- University of Maryland, College Park
-    * Title - TBD
+      * <a href="javascript:void(0)" onclick="$('.talk-1').toggle('slow')"> A Framework for Unifying and Applying At-Risk User Research</a>
+    <div class="talk-1" style="display:none">
+    <ul><ul>
+      <li> Abstract </li>
+      <ul><li>At-risk users experience elevated digital security, privacy, and safety threats because of who they are, what they do, where they live, or who they are with. In this systematization work, we present a framework for reasoning about at-risk users based on a wide-ranging meta-analysis of 85 papers. Across the diverse populations that we examined (e.g. children, activists, women in developing regions), we identified 10 unifying contextual risk factors -- such as oppression or stigmatization or access to a sensitive resource -- which augment or amplify digital-safety threats and their resulting harms.We also identified technical and non-technical practices that at-risk users adopt to attempt to protect themselves from digital-safety threats. We use this framework to discuss barriers that limit at-risk users' ability or willingness to take protective actions. We believe that the security, privacy, and human-computer interaction research and practitioner communities can use our framework to identify and shape research investments to benefit at-risk users, and to guide technology design to better support at-risk users.</li></ul>
+      <li> Publication Info </li>
+      <ul>
+          <li><em>Work in progress submission</em> </li>
+    </ul></ul></ul>
+    </div>
   * Collins Munyendo -- The George Washington University
     * <a href="javascript:void(0)" onclick="$('.talk-2').toggle('slow')">"The Same PIN, Just Longer": On the (In)Security of Upgrading PINs from 4 to 6 Digits<a>  
     <div class="talk-2" style="display:none">
@@ -29,10 +38,11 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
     </ul></ul></ul>
     </div>
   * Talk 3
+  
 * 11:00AM-11:15AM : Break
 
 * 11:15AM-11:45AM : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
-  * Julia Poveda -- University of Maryland, College Park
+  * Julio Poveda -- University of Maryland, College Park
     * When Safety is Worth a Thousand Words: Analyzing IPV Survivors' Initiatives and Online Advice to Untangle Tech Abuse
   * Hunter Dyer -- The George Washington University
     * Examining Android Application Mirror Sites
