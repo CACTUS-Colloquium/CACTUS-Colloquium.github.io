@@ -59,7 +59,8 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
 * 12:00PM-1:00PM : Lunch
 
 * 1:00PM-1:30 : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
-  * WIP 7
+  * Florian Farke --  Ruhr University Bochum
+    *  What People Think Google Learns From Their Activities - Reporting from the Study Development
   * WIP 8
   * WIP 9
   * WIP 10
@@ -76,7 +77,18 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
 * 2:45PM-3:00PM : Break
 
 * 3:00PM-4:15PM : Research Talks (15 minute presentations, 10 minute Q/A)
-  * Talk 4
+  * Yixin Zou -- University of Michigan, School of Information
+    * <a href="javascript:void(0)" onclick="$('.talk-4').toggle('slow')">“Now I’m a bit angry:” Consumer Reactions to Data Breaches that Affected Them and Opportunities for Interventions<a>  
+    <div class="talk-4" style="display:none">
+    <ul><ul>
+      <li> Abstract </li>
+      <ul><li>Data breaches are putting millions of U.S. consumers at risk of identity theft, phishing attacks, and financial harm. We provide novel insights into individuals’ awareness and reactions to specific breaches affecting them through an online study (n=413), in which we showed each participant up to three data breaches that had exposed their email addresses and other personal information. Overall, 73% of participants were affected by at least one breach, 5.36 breaches on average. Nonetheless, participants were unaware of 74% of those breaches that affected them. While some reported intentions to take action following the breach, most believed the breach would not harm them. Based on our findings, we discuss opportunities to better support consumers in reacting to breaches through more effective notifications and protection tools, as well as stronger regulation to hold breached organizations accountable. In ongoing work, we are investigating to what extent participants follow through reported intention to take action and factors that impede action. We are also conducting an online experiment to evaluate the feasibility of using Protection Motivation Theory—i.e., explaining threats of a breach and coping process—to better motivate affected consumers to take action.</li></ul>
+      <li> Publication Info </li>
+      <ul>
+          <li>Peter Mayer, Yixin Zou, Florian Schaub, and Adam J. Aviv. <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/mayer">"Now I'm a bit angry:" Individuals' Awareness, Perception, and Responses to Data Breaches that Affected Them</a>. 30th USENIX Security Symposium (USENIX Security 21). USENIX Association. Aug 2021. </li>
+    </ul></ul></ul>
+    </div>
+    
   * David Balash -- The George Washington University
     * <a href="javascript:void(0)" onclick="$('.talk-5').toggle('slow')"> Security and Privacy Perceptions of Third-Party Application Access for Google Accounts <a>  
     <div class="talk-5" style="display:none">
