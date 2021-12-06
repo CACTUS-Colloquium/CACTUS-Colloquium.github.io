@@ -50,7 +50,8 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
     * IoT Device Misuse and Snooping
   * David Balash -- The George Washington University
     * Privacy nutrition labels on the Apple iOS app store
-  * WIP 5
+  * Omer Akgul -- University of Maryland, College Park
+    * Measuring the Impact of VPN Ads on YouTube
   * WIP 6
 
 * 11:45AM-12:00PM : Birds of a Feather Brainstorming
@@ -100,7 +101,17 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
           <li>David G. Balash, Xiaoyuan (Owen) Wu, Miles Grant, Irwin Reyes, and Adam J. Aviv. <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/balash">Security and Privacy Perceptions of Third-Party Application Access for Google Accounts</a>. 31st USENIX Security Symposium (USENIX Security 22). Aug 2022. </li>
     </ul></ul></ul>
     </div>
-  * Talk 6
+  * Kelsey Fulton -- University of Maryland, College Park
+    * <a href="javascript:void(0)" onclick="$('.talk-6').toggle('slow')"> Vulnerability Discovery for All: Experiences of Marginalization in Vulnerability Discovery</a>
+    <div class="talk-6" style="display:none">
+    <ul><ul>
+      <li> Abstract </li>
+      <ul><li>Vulnerability discovery is an essential aspect of software security. Currently, the demand for security experts significantly exceeds the available vulnerability discovery workforce. Further, the existing vulnerability discovery workforce is highly homogeneous, dominated by white and Asian men. As such, one promising avenue for increasing the capacity of the vulnerability discovery community is through recruitment and retention from a broader population. Although significant prior research has explored the challenges of equity and inclusion in computing broadly, the competitive and frequently self-taught nature of vulnerability discovery work may create new variations on these challenges. This paper reports on a semi-structured interview study (N = 16) investigating how people from marginalized populations come to participate in vulnerability discovery, whether they feel welcomed by the vulnerability discovery community, and what challenges they face when joining the vulnerability discovery community. We find that members of marginalized populations face some unique challenges, while other challenges common in vulnerability discovery are exacerbated by marginalization.</li></ul>
+      <li> In Submission</li>
+      <ul>
+          <li>with, Samantha Katcher, Kevin Song, Daniel Votipka, Marshini Chetty, Michelle Mazurek, and Chloé Messdaghi.</li>
+    </ul></ul></ul>
+    </div>
 
 * 4:15PM-4:30PM : Closing
 
