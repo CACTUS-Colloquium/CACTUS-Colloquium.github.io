@@ -37,9 +37,21 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
           <li><em>In submission</em> with Collins W. Munyendo, Philipp Markert, Alexandra Nisenoff, Miles Grant, Elena Korkes, Blase Ur, Adam J. Aviv</li>
     </ul></ul></ul>
     </div>
-  * Talk 3
-  
+  * Jaron Mink -- University of Illinois at Urbana-Champaign
+    * <a href="javascript:void(0)" onclick="$('.talk-3').toggle('slow')">Users Can Deduce Sensitive Locations Protected by Privacy Zones on Fitness Tracking Apps<a>  
+    <div class="talk-3" style="display:none">
+    <ul><ul>
+      <li> Abstract </li>
+      <ul><li>Fitness-tracking applications allow athletes to share their exercises online, but sharing mobility data creates privacy risks. We present an online user study (n=603) that investigates privacy concerns of fitness-tracking users and evaluates the efficacy of "Privacy Zones" -- a feature that conceals portions of exercise routes that fall within a specified radius of user-designated sensitive locations. Participants were asked about their fitness-tracking privacy behaviors, completed an interactive task in which they attempted to deduce hidden locations protected by a privacy zone, and then answered further questions about fitness privacy. We found that participants successfully inferred protected locations; for the most common privacy zone size, 68% of guesses falling within 50 meters when participants were shown just 3 activities. Further, we found that participants that viewed 3 activities were more confident about their success. Combined, these results indicate that users' privacy-sensitive locations are at risk even when using a privacy zone.</li></ul>
+      <li> Publication Info </li>
+      <ul>
+          <li>To appear at CHI 2022 with Amand Rose Yuile, Uma Pal, Adam J. Aviv and Adam Bates</li>
+    </ul></ul></ul>
+    </div>
+
+
 * 11:00AM-11:15AM : Break
+
 
 * 11:15AM-11:45AM : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
   * Julio Poveda -- University of Maryland, College Park
@@ -52,17 +64,21 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
     * Privacy nutrition labels on the Apple iOS app store
   * Omer Akgul -- University of Maryland, College Park
     * Measuring the Impact of VPN Ads on YouTube
-  * WIP 6
+  * Haojian Jin -- Human-Computer Interaction Institute, Carnegie Mellon University
+    * Mitigating Data Overaccess by Apps through Modular Privacy Flows 
 
 * 11:45AM-12:00PM : Birds of a Feather Brainstorming
   * Come up with 3-to-4 topics we can break out and brainstorm about
 
+
 * 12:00PM-1:00PM : Lunch
+
 
 * 1:00PM-1:30 : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
   * Florian Farke --  Ruhr University Bochum
-    *  What People Think Google Learns From Their Activities - Reporting from the Study Development
-  * WIP 8
+    * What People Think Google Learns From Their Activities - Reporting from the Study Development
+  * Sunyup Park -- University of Maryland, College Park
+    * Shared Mental Models in Smart Homes
   * WIP 9
   * WIP 10
   * WIP 11
