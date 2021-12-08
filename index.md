@@ -79,9 +79,11 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
     * What People Think Google Learns From Their Activities - Reporting from the Study Development
   * Sunyup Park -- University of Maryland, College Park
     * Shared Mental Models in Smart Homes
-  * WIP 9
+  * Hasan Mahmud Prottoy -- University of Maryland, Baltimore County (HCC)
+    * Understanding account sharing practices for online resources
   * WIP 10
-  * WIP 11
+  * Kiran Prabhu -- University of Maryland, Baltimore County
+    * Are periodic consents necessary with regard to the use of Facial Recognition Technology systems for patient monitoring?
   * WIP 12
 
 * 1:30PM-1:45PM : Break
