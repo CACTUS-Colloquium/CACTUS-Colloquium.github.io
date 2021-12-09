@@ -55,7 +55,7 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
 
 * 11:15AM-11:45AM : Work in Progress (WiP) Talks (3 minute presentations, 2 minute Q/A)
   * Julio Poveda -- University of Maryland, College Park
-    * When Safety is Worth a Thousand Words: Analyzing IPV Survivors' Initiatives and Online Advice to Untangle Tech Abuse
+    * When Safety is Worth a Thousand Words: Analyzing IPV Survivors’ Initiatives and Online Advice to Overcome Tech Abuse
   * Hunter Dyer -- The George Washington University
     * Examining Android Application Mirror Sites
   * Phoebe Moh -- University of Maryland, College Park
@@ -81,7 +81,8 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
     * Shared Mental Models in Smart Homes
   * Hasan Mahmud Prottoy -- University of Maryland, Baltimore County (HCC)
     * Understanding account sharing practices for online resources
-  * WIP 10
+  * Nathan Reitinger -- University of Maryland, College Park
+    * Why Johnny Can't (or Can) Deny: An Evaluation of Deniability in Secure Messaging Applications
   * Kiran Prabhu -- University of Maryland, Baltimore County
     * Are periodic consents necessary with regard to the use of Facial Recognition Technology systems for patient monitoring?
   * WIP 12
