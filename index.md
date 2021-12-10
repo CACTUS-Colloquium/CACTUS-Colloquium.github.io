@@ -66,7 +66,9 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
     * Measuring the Impact of VPN Ads on YouTube
   * Haojian Jin -- Human-Computer Interaction Institute, Carnegie Mellon University
     * Mitigating Data Overaccess by Apps through Modular Privacy Flows 
-
+  * Parth Thakkar, University of Maryland, Baltimore County
+    * Understanding Users' Perceptions of Online Child Abuse Detection Practices
+    
 * 11:45AM-12:00PM : Birds of a Feather Brainstorming
   * Come up with 3-to-4 topics we can break out and brainstorm about
 
@@ -85,7 +87,8 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
     * Why Johnny Can't (or Can) Deny: An Evaluation of Deniability in Secure Messaging Applications
   * Kiran Prabhu -- University of Maryland, Baltimore County
     * Are periodic consents necessary with regard to the use of Facial Recognition Technology systems for patient monitoring?
-  * WIP 12
+  * Wentao Guo -- University of Maryland, College Park
+    * The Role of Product Reviewers in Evaluating Security and Privacy
 
 * 1:30PM-1:45PM : Break
 
