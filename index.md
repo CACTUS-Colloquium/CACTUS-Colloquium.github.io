@@ -84,7 +84,7 @@ Register for the inaugural event, which will be held 12/14/2021 at the Universit
   * Hasan Mahmud Prottoy -- University of Maryland, Baltimore County (HCC)
     * Understanding account sharing practices for online resources
   * Nathan Reitinger -- University of Maryland, College Park
-    * Why Johnny Can't (or Can) Deny: An Evaluation of Deniability in Secure Messaging Applications
+    * Evaluating Deniability in Secure Messaging Applications
   * Kiran Prabhu -- University of Maryland, Baltimore County
     * Are periodic consents necessary with regard to the use of Facial Recognition Technology systems for patient monitoring?
   * Wentao Guo -- University of Maryland, College Park
