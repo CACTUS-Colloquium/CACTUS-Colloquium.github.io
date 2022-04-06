@@ -7,6 +7,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   CACTUS/P is the Capital-Area Colloquium on Trustworthy and Usable Security/Privacy. We strive to create community in the DC/Maryland/Virginia are for academics, industry professionals, and government workers interested in topics related to usable security and privacy. We meet twice a year to present recent research and discuss new collaborations.
 show_excerpts: false # set to true to show excerpts on the homepage
+future: true
 
 
 # Minima date format
