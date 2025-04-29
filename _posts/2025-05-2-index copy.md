@@ -101,5 +101,5 @@ We wish to thank the [GWUSEC Lab](https://gwusec.seas.gwu.edu/) at the George Wa
 
 <!-- <center> -->
 <!-- <img class="sonsor-img" src="images/mc2.png" width="45%"> -->
-<!-- </center>
+<!-- </center> -->
 
