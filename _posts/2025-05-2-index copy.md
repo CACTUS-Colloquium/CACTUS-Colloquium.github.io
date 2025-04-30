@@ -33,8 +33,8 @@ Registration is [open](https://forms.gle/VdRcT1Zcpky4HuXJ6)!
 * **10:15am-10:30am: WiP/Short Talks**
   * Christopher Landis -- U.S. Naval Academy
     * *"From System Design to Unexpected Use"*
-  * Sunyup Park -- University of Maryland
-    * *"Privacy Negotiation Game: Facilitating Communication Between Primary and Unintentional Users of Smart Devices"*
+  * Neal Keating -- The George Washington University
+    * *"Measuring APK Mirror Sites"* 
   * Jan Tolsdorf -- The George Washington University
     * *"Do Users' Real World Cookie Consent Choices Align With Their Privacy Preferences?"*
   
@@ -51,10 +51,8 @@ Registration is [open](https://forms.gle/VdRcT1Zcpky4HuXJ6)!
     * *"Understanding the motivations and security practices of non-official Android app stores' users"*
   * Alan Luo -- University of Maryland 
     * *"Characterizing how Users Audit Fairness and Bias in AI Chatbots"*
-  * Neal Keating -- The George Washington University
-    * *"Measuring APK Mirror Sites"* 
-
-* **11:35am-1:30pm: Lunch**
+  
+* **11:30am-1:30pm: Lunch**
 
 * **1:30pm -- 2:00pm: Research Talks**
   * Wisdom Obinna -- Georgetown University
