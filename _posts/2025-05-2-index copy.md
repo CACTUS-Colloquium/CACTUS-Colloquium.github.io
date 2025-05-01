@@ -71,7 +71,7 @@ Registration is [open](https://forms.gle/VdRcT1Zcpky4HuXJ6)!
     * *"User experiences with LLM Refusals"*
   * Monica Kodwani -- The George Washington University
     * *"Perceptions of Data Safety Labels Early Results"*
-  * Azwa Bajwash -- University of Maryland
+  * Azwa Bajwah -- University of Maryland
     * *"Perceptions of Tracking and Inference in VR"*
    
 * **2:30pm -- 3:00pm: Break**
