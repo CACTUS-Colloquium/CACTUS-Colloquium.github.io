@@ -40,11 +40,11 @@ Registration is [open](https://forms.gle/VdRcT1Zcpky4HuXJ6)!
   
 * **10:30am-11:00am**: Break
 
-* **11:00am-11:15am: Research Talk:**
+* **11:15am-11:30am: Research Talk:**
   * Collins Munyendo -- The George Washington University
     * *"You Have to Ignore the Dangers": User Perceptions of the Security and Privacy Benefits of WhatsApp Mods"*
   
-* **11:15am-11:30am: WiP/Short Talks**
+* **11:30am-11:45am: WiP/Short Talks**
   * Ben Weinshel -- Carnegie Mellon University
     * *"“I would still use it but I wouldn’t trust it”: Evaluating Mechanisms for Transparency and Control for Smart-Home Sensors"*
   * Wellington Barbosa -- The George Washington University
@@ -52,7 +52,7 @@ Registration is [open](https://forms.gle/VdRcT1Zcpky4HuXJ6)!
   * Alan Luo -- University of Maryland 
     * *"Characterizing how Users Audit Fairness and Bias in AI Chatbots"*
   
-* **11:30am-1:30pm: Lunch**
+* **11:45am-1:30pm: Lunch**
 
 * **1:30pm -- 2:00pm: Research Talks**
   * Wisdom Obinna -- Georgetown University
